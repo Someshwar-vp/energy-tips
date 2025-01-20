@@ -1,10 +1,7 @@
 {
   "energyTips": [
-    "Turn off lights when leaving a room.",
-    "Use energy-efficient LED bulbs.",
-    "Unplug devices when not in use.",
-    "Set your AC to an optimal temperature.",
-    "Use natural light during the day.",
-    "Perform regular maintenance on appliances to improve efficiency."
+    { "id": 1, "body": "Turn off lights when leaving the room." },
+    { "id": 2, "body": "Use energy-efficient LED bulbs." },
+    { "id": 3, "body": "Unplug unused electronic devices." }
   ]
 }
