@@ -1,7 +1,8 @@
 {
   "energyTips": [
-    { "id": 1, "body": "Turn off lights when leaving the room." },
-    { "id": 2, "body": "Use energy-efficient LED bulbs." },
-    { "id": 3, "body": "Unplug unused electronic devices." }
+    { "id": 1, "body": "Harness solar energy by from solar panels along the tube" },
+    { "id": 2, "body": "Use regenerative braking to recover energy during deceleration" },
+    { "id": 3, "body": "Optimize energy usage through real-time data monitoring and predictive maintenance" }
+    { "id": 4, "body": "Use intelligent route planning to ensure efficient operation based on demand" }
   ]
 }
