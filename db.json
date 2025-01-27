@@ -4,5 +4,10 @@
     { "id": 2, "body": "Use regenerative braking to recover energy during deceleration" },
     { "id": 3, "body": "Optimize energy usage through real-time data monitoring and predictive maintenance" },
     { "id": 4, "body": "Use intelligent route planning to ensure efficient operation based on demand" }
+  ],
+  "funFacts": [
+    { "id": 1, "fact": "Hyperloop could reduce travel time between cities to minutes." },
+    { "id": 2, "fact": "Hyperloop pods can travel at speeds of over 1000 km/h." },
+    { "id": 3, "fact": "The technology behind Hyperloop is based on magnetic levitation." }
   ]
 }
